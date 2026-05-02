@@ -1,0 +1,12 @@
+# COBOL Expense Tracker - Git Ignore
+
+# Data files (auto-generated, user-specific)
+*.dat
+
+# Compiled binary
+expense-tracker
+
+# Backup files
+*.bak
+*~
+*.swp
